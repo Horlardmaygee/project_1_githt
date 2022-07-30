@@ -1,0 +1,1 @@
+# this is the solution to the project 1 for Hamoye Internship under the github task.
